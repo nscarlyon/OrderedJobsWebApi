@@ -1,0 +1,9 @@
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\bin\Debug\netcoreapp1.1\OrderedJobs.Domain.deps.json
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\bin\Debug\netcoreapp1.1\OrderedJobs.Domain.dll
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\bin\Debug\netcoreapp1.1\OrderedJobs.Domain.pdb
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\obj\Debug\netcoreapp1.1\OrderedJobs.Domain.csprojResolveAssemblyReference.cache
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\obj\Debug\netcoreapp1.1\OrderedJobs.Domain.AssemblyInfo.cs
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\obj\Debug\netcoreapp1.1\OrderedJobs.Domain.dll
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\obj\Debug\netcoreapp1.1\OrderedJobs.Domain.pdb
+C:\Users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\bin\Debug\netcoreapp1.1\OrderedJobs.Data.dll
+C:\Users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Domain\bin\Debug\netcoreapp1.1\OrderedJobs.Data.pdb

@@ -1,0 +1,7 @@
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Data\bin\Debug\netcoreapp1.1\OrderedJobs.Data.deps.json
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Data\bin\Debug\netcoreapp1.1\OrderedJobs.Data.dll
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Data\obj\Debug\netcoreapp1.1\OrderedJobs.Data.csprojResolveAssemblyReference.cache
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Data\obj\Debug\netcoreapp1.1\OrderedJobs.Data.AssemblyInfo.cs
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Data\bin\Debug\netcoreapp1.1\OrderedJobs.Data.pdb
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Data\obj\Debug\netcoreapp1.1\OrderedJobs.Data.dll
+c:\users\nscarlyon\documents\visual studio 2017\Projects\OrderedJobsWebApi\OrderedJobs.Data\obj\Debug\netcoreapp1.1\OrderedJobs.Data.pdb
